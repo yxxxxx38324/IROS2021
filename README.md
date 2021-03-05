@@ -1,2 +1,2 @@
 # IROS2021
-IAFBNet Codes for IROS2021
+The codes of IAFBNet: Multispectral Pedestrian Detection With Illumination-based Attentive Fusion Blocks will be avaliable soon.
